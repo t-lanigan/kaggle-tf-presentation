@@ -1,6 +1,6 @@
 ## Kaggle Diabetic Retinopathy Detection
 
-Powerpont file included
+Powerpoint file included
 
 ## Tensorflow demonstration
 
