@@ -1,7 +1,7 @@
 ## Kaggle Diabetic Retinopathy Detection
 
-Powerpoint file included
+1hr presentation given on the use of CNNs to detect Diabetic Retinopathy in the second place solution for the Kaggle competiion. Powerpoint file included.
 
 ## Tensorflow demonstration
 
-Tensorflow workshop file included.
+1hr Tensorflow workshop file included in the iPython notebook. 
